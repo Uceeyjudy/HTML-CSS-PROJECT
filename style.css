@@ -1,0 +1,16 @@
+h1{
+    color: crimson;
+}
+body{
+    background: aqua;
+    border: blueviolet;
+    position: relative;
+    text-align: center;
+}
+img{
+    max-height: 30%;
+}
+ul, li{
+    line-height: 15px;
+    margin: auto;
+}
